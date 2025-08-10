@@ -1,6 +1,10 @@
 # YouTube MP4 and WAV Downloader
 
-This project allows you to download YouTube videos as MP4 or WAV files quickly and easily.
+This project allows you to download YouTube videos as MP4, WAV or OPUS files quickly and easily.
+
+Fast Download
+No Download Limit
+High Quality
 
 ## How to Use
 
@@ -10,3 +14,4 @@ This project allows you to download YouTube videos as MP4 or WAV files quickly a
 4. The download will start automatically.
 
 Enjoy your downloaded videos and audio files!
+
